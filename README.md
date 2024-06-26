@@ -6,6 +6,7 @@ Conduct a detailed analysis of retail sales data to identify trends, optimize in
 
 ## Tools Used: 
 Power BI
+![Retail Analysis](https://github.com/VihoshiniSaravanan/Retail_Store-Analysis/assets/173756615/99a2ba50-5d13-4633-b781-7d0b774fe08f)
 
 #### Actions Taken:
 
